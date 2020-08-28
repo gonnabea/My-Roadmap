@@ -7,12 +7,12 @@
 
 ### SNS형식 채팅웹 제작 ( 2020-7 ~ )
 
-- MySQL
-- webSocket
+- [ ] MySQL
+- [ ] webSocket
 
 ### 모션인식 + 스트리밍 웹개발 ( ? ~ )
 
-- Python
-- WebRTC
-- OpenCV
-- OpenPose
+- [ ] Python
+- [ ] WebRTC
+- [ ] OpenCV
+- [ ] OpenPose
