@@ -7,8 +7,8 @@
 
 ### SNS형식 채팅웹 제작 ( 2020-7 ~ )
 
-- [ ] MySQL
-- [ ] webSocket
+- [x] MySQL
+- [x] webSocket
 
 ### 모션인식 + 스트리밍 웹개발 ( ? ~ )
 
