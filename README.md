@@ -19,6 +19,6 @@
 
 ### 노마드코더 우버클론 ( ? ~ )
 
-- [ ] TypeScript : 노마드코더 블록체인 만들기 + https://www.youtube.com/watch?v=ODvirqIC09A&t=21s
+- [x] TypeScript : 노마드코더 블록체인 만들기 + https://www.youtube.com/watch?v=ODvirqIC09A&t=21s
 - [ ] GraphQL : 노마드코더 강의
 - [ ] Apollo : 노마드코더 강의
