@@ -13,7 +13,7 @@
 ### 모션인식 + 스트리밍 웹개발 ( ? ~ )
 
 - [x] Python : 노마드코더 기본 강의 듣기
-- [ ] WebRTC : https://www.youtube.com/watch?v=DvlyzDZDEq4&t=426s
+- [x] WebRTC : https://www.youtube.com/watch?v=DvlyzDZDEq4&t=426s
 - [ ] OpenCV : https://www.youtube.com/watch?v=WQeoO7MI0Bs + https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
 - [ ] OpenPose
 
