@@ -13,12 +13,12 @@
 ### 모션인식 + 스트리밍 웹개발 ( ? ~ )
 
 - [x] Python : 노마드코더 기본 강의 듣기
-- [x] WebRTC : https://www.youtube.com/watch?v=DvlyzDZDEq4&t=426s
-- [ ] OpenCV : https://www.youtube.com/watch?v=WQeoO7MI0Bs + https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
+- [x] WebRTC : https://github.com/gonnabea/Mini-Zoom-Clone
+- [ ] OpenCV : https://github.com/gonnabea/OpenCV-Python
 - [ ] OpenPose
 
 ### 노마드코더 우버클론 ( ? ~ )
 
-- [x] TypeScript : 노마드코더 블록체인 만들기 + https://www.youtube.com/watch?v=ODvirqIC09A&t=21s
+- [x] TypeScript : 노마드코더 블록체인 만들기 + https://github.com/gonnabea/TS-ToDo
 - [ ] GraphQL : 노마드코더 강의
 - [ ] Apollo : 노마드코더 강의
