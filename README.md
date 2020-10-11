@@ -14,7 +14,7 @@
 
 - [x] Python : 노마드코더 기본 강의 듣기
 - [x] WebRTC : https://github.com/gonnabea/Mini-Zoom-Clone
-- [] OpenCV : https://github.com/gonnabea/OpenCV-Python
+- [x] OpenCV : https://github.com/gonnabea/OpenCV-Python
 
 
 ### 노마드코더 우버클론 ( ? ~ )
