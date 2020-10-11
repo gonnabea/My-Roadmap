@@ -14,15 +14,15 @@
 
 - [x] Python : 노마드코더 기본 강의 듣기
 - [x] WebRTC : https://github.com/gonnabea/Mini-Zoom-Clone
-- [ ] OpenCV : https://github.com/gonnabea/OpenCV-Python
-- [ ] OpenPose
+- [] OpenCV : https://github.com/gonnabea/OpenCV-Python
+
 
 ### 노마드코더 우버클론 ( ? ~ )
 
 - [x] TypeScript : 노마드코더 블록체인 만들기 + https://github.com/gonnabea/TS-ToDo
 - [x] GraphQL : 노마드코더 강의
-- [ ] Apollo : 노마드코더 강의
-
+- [x] Apollo : 노마드코더 강의
+- [ ] Nesr.js: 노마드코더 강의 (우버이츠 클론)
 #### Tip. 효과적으로 새로운 기술을 배우는 법
 
 - 클론코딩 강의를 찾아서 완강한다
